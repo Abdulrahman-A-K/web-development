@@ -1,12 +1,11 @@
 # web-development
 ## first tasks  
 * **overview**
-    * This task is a web-based interface for controlling a robot's movement. The interface allows users to control the robot's direction (left, right, forward, backward) and store its movements in a database
-
+    * This project involves creating a web-based interface to control a robot's movement. Users can direct the robot to move left, right, forward, or backward, and these movements are recorded in a database. The interface also allows users to retrieve and display the robot's most recent movement.
 * **Dependencies**
-    * XAMPP
-    * PHP 7.x or higher
-    * MySQL database connection
+ * XAMPP: Provides a local server environment with Apache, PHP, and MySQL.
+ * PHP 7.x or higher: Server-side scripting language.
+ * MySQL: Database management system for storing robot movement data.
 
 * **files we have**
     * first file we have is index.html is holding the interface structure   
